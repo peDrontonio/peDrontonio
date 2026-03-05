@@ -2,17 +2,8 @@
 
 - Mechatronics Engineering Student @ University of São Paulo
  
-
-<div>
-    <a href="https://github.com/peDrontonio=">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peDrontonio&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peDrontonio&layout=compact&langs_count=7&theme=apprentice"/>
-</div>
-
- ---
- 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peDrontonio/peDrontonio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ peDrontonio/peDrontonio/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peDrontonio/peDrontonio/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/peDrontonio/peDrontonio/output/github-contribution-grid-snake.svg">
 </picture>
